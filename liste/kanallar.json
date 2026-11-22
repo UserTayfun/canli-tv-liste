@@ -1,9 +1,9 @@
 [
   {"id":"trt1","ad":"TRT 1","grup":"dizi","logo":"","yayinlar":["https://tv-trt1.medya.trt.com.tr/master.m3u8","https://trt.daioncdn.net/trt-1/master.m3u8?app=clean"],"resmiSayfa":"https://www.tabii.com/tr/watch/live/trt1"},
-  {"id":"trt2","ad":"TRT 2","grup":"dizi","logo":"","yayinlar":["https://tv-trt2.medya.trt.com.tr/master.m3u8"],"resmiSayfa":""},
-  {"id":"trteba","ad":"TRT eba","grup":"cocuk","logo":"","yayinlar":["https://tv-e-okul01.medya.trt.com.tr/master.m3u8"],"resmiSayfa":""},
-  {"id":"trtgenc","ad":"TRT Genç","grup":"cocuk","logo":"","yayinlar":["https://tv-trtgenc.medya.trt.com.tr/master.m3u8"],"resmiSayfa":""},
-  {"id":"trtspor","ad":"TRT Spor","grup":"spor","logo":"","yayinlar":["https://tv-trtspor1.medya.trt.com.tr/master.m3u8"],"resmiSayfa":""},
+  {"id":"trt2","ad":"TRT 2","grup":"dizi","logo":"","yayinlar":["https://tv-trt2.medya.trt.com.tr/master.m3u8"],"resmiSayfa":"https://www.tabii.com/tr/watch/live/trt2"},
+  {"id":"trteba","ad":"TRT eba","grup":"cocuk","logo":"","yayinlar":["https://tv-e-okul01.medya.trt.com.tr/master.m3u8"],"resmiSayfa":"https://www.tabii.com/tr/watch/live/trteba"},
+  {"id":"trtgenc","ad":"TRT Genç","grup":"cocuk","logo":"","yayinlar":["https://tv-trtgenc.medya.trt.com.tr/master.m3u8"],"resmiSayfa":"https://www.tabii.com/tr/watch/live/trtgenc"},
+  {"id":"trtspor","ad":"TRT Spor","grup":"spor","logo":"","yayinlar":["https://tv-trtspor1.medya.trt.com.tr/master.m3u8"],"resmiSayfa":"https://www.tabii.com/tr/watch/live/trtspor"},
   {"id":"atv","ad":"ATV","grup":"dizi","logo":"","yayinlar":["https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8","https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8"],"resmiSayfa":"https://www.atv.com.tr/canli-yayin"},
   {"id":"kanald","ad":"Kanal D","grup":"dizi","logo":"","yayinlar":["https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3","https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8"],"resmiSayfa":"https://www.kanald.com.tr/canli-yayin"},
   {"id":"kanal7","ad":"Kanal 7","grup":"dizi","logo":"","yayinlar":["https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8"],"resmiSayfa":""},
