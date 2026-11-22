@@ -1,6 +1,6 @@
 [
   {"id":"trt1","ad":"TRT 1","grup":"dizi","logo":"","yayinlar":["https://tv-trt1.medya.trt.com.tr/master.m3u8","https://trt.daioncdn.net/trt-1/master.m3u8?app=clean"],"resmiSayfa":"https://www.tabii.com/tr/watch/live/trt1"},
-  {"id":"atv","ad":"ATV","grup":"dizi","logo":"","yayinlar":[],"resmiSayfa":"https://www.atv.com.tr/canli-yayin"},
+  {"id":"atv","ad":"ATV","grup":"dizi","logo":"","yayinlar":["https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8"],"resmiSayfa":"https://www.atv.com.tr/canli-yayin"},
   {"id":"kanald","ad":"Kanal D","grup":"dizi","logo":"","yayinlar":["https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3","https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8"],"resmiSayfa":"https://www.kanald.com.tr/canli-yayin"},
   {"id":"showtv","ad":"Show TV","grup":"dizi","logo":"","yayinlar":[],"resmiSayfa":"https://www.showtv.com.tr/canli-yayin"},
   {"id":"startv","ad":"Star TV","grup":"dizi","logo":"","yayinlar":["https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9"],"resmiSayfa":"https://www.startv.com.tr/canli-yayin"},
