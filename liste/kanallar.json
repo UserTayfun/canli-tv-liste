@@ -29,9 +29,9 @@
   {"id":"tlc","ad":"TLC","grup":"dizi","logo":"","yayinlar":["https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&token=SlovbUw3YytyQmJNYmdmQmJ2Rk1xK3VOTEY0RGVUNWp4VFcvemU0NWpsVT0=","http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8"],"resmiSayfa":"https://www.tlctv.com.tr/canli-izle"},
   {"id":"dmax","ad":"DMAX","grup":"belgesel","logo":"","yayinlar":["https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=SFdhZDcvVlVObVVoTTJwOUp2elFEcVkxV1RCZ2d4bW1PSWZYOFdGcThLbz0=","http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8"],"resmiSayfa":"https://www.dmax.com.tr/canli-izle"},
   {"id":"tgrtbelgesel","ad":"TGRT Belgesel","grup":"belgesel","logo":"","yayinlar":["https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8"],"resmiSayfa":"https://www.tgrtbelgesel.com.tr/canli-yayin"},
-  {"id":"tabiispor1","ad":"tabii Spor 1","grup":"spor","logo":"","yayinlar":["https://kL9mR2vXw7nQ5pY1sH4tJ3gB6.medya.trt.com.tr/master.m3u8"],"resmiSayfa":""},
-  {"id":"tabiispor2","ad":"tabii Spor 2","grup":"spor","logo":"","yayinlar":["https://pz4qt7nw1mr9sh2vl5xk8jg3y.medya.trt.com.tr/master.m3u8"],"resmiSayfa":""},
-  {"id":"tabiispor3","ad":"tabii Spor 3","grup":"spor","logo":"","yayinlar":["https://mr8bv4kl1nq7sh9tw2xp5zj6g.medya.trt.com.tr/master.m3u8"],"resmiSayfa":""},
+  {"id":"tabiispor","ad":"tabii Spor","grup":"spor","logo":"","yayinlar":["https://kL9mR2vXw7nQ5pY1sH4tJ3gB6.medya.trt.com.tr/master.m3u8"],"resmiSayfa":""},
+  {"id":"tabiispor1","ad":"tabii Spor 1","grup":"spor","logo":"","yayinlar":["https://pz4qt7nw1mr9sh2vl5xk8jg3y.medya.trt.com.tr/master.m3u8"],"resmiSayfa":""},
+  {"id":"tabiispor2","ad":"tabii Spor 2","grup":"spor","logo":"","yayinlar":["https://mr8bv4kl1nq7sh9tw2xp5zj6g.medya.trt.com.tr/master.m3u8"],"resmiSayfa":""},
   {"id":"tivi6","ad":"Tivi 6","grup":"sinema","logo":"","yayinlar":["https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8"],"resmiSayfa":""},
   {"id":"beyaztv","ad":"Beyaz TV","grup":"sinema","logo":"","yayinlar":["https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8","https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8"],"resmiSayfa":""},
   {"id":"kanal1","ad":"Kanal 1","grup":"yeşilcam","logo":"","yayinlar":["https://v2.catcast.tv/content/50735/seg-25826729-v1-a1/index.m3u8"],"resmiSayfa":""},
@@ -40,5 +40,6 @@
   {"id":"kanal4","ad":"Kanal 4","grup":"yeşilcam","logo":"","yayinlar":["https://v2.catcast.tv/content/50564/seg-25665421-v1-a1/index.m3u8"],"resmiSayfa":""},
   {"id":"kanal5","ad":"Kanal 5","grup":"yeşilcam","logo":"","yayinlar":["https://v2.catcast.tv/content/50471/seg-25565614-v1-a1/index.m3u8"],"resmiSayfa":""},
   {"id":"cine1","ad":"Cine1","grup":"sinema","logo":"","yayinlar":["https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8"],"resmiSayfa":""},
-  {"id":"tabiitv","ad":"tabii TV","grup":"sinema","logo":"","yayinlar":["https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8"],"resmiSayfa":""}
+  {"id":"tabiitv","ad":"tabii TV","grup":"sinema","logo":"","yayinlar":["https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8"],"resmiSayfa":""},
+  {"id": "selcukspor","ad": "Selçuk Spor","grup": "spor","logo": "","yayinlar": [],"resmiSayfa": "https://www.selcuksportshd34d51bc052.xyz/"}
 ]
