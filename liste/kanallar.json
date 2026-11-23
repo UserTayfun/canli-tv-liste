@@ -41,5 +41,7 @@
   {"id":"kanal5","ad":"Kanal 5","grup":"yeşilcam","logo":"","yayinlar":["https://v2.catcast.tv/content/50471/seg-25565614-v1-a1/index.m3u8"],"resmiSayfa":""},
   {"id":"cine1","ad":"Cine1","grup":"sinema","logo":"","yayinlar":["https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8"],"resmiSayfa":""},
   {"id":"tabiitv","ad":"tabii TV","grup":"sinema","logo":"","yayinlar":["https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8"],"resmiSayfa":""},
-  {"id":"selcuksport","ad": "Selçuk Sport","grup": "spor","logo": "","yayinlar": [],"resmiSayfa": "https://www.selcuksportshd34d51bc052.xyz/"}
+  {"id":"selcuksport","ad": "Selçuk Sport","grup": "spor","logo": "","yayinlar": [],"resmiSayfa": "https://www.selcuksportshd34d51bc052.xyz/"},
+  {"id":"haberturk","ad":"Haber Türk","grup":"haber","logo":"","yayinlar":["https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3"],"resmiSayfa":"https://www.haberturk.com/canliyayin"},
+  {"id":"tbmm","ad": "TBMM","grup": "haber","logo": "","yayinlar": ["https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8"],"resmiSayfa": "https://tv.tbmm.gov.tr/"}
 ]
